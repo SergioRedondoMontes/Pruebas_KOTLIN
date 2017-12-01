@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Actividad1</string>
+    <string name="btnBook">SIGUIENTE</string>
+    <string name="btnEditar">EDITAR</string>
+    <string name="btnGuardar">GUARDAR</string>
+    <string name="btnPerfil">PERFIL</string>
+    <string name="btnSiguiente">SIGUIENTE</string>
+    <string name="btnAnterior">ANTERIOR</string>
+    <string name="txtNombre">NOMBRE</string>
+    <string name="txtEmail">EMAIL</string>
+    <string name="txtTelefono">TELEFONO</string>
+    <string name="txtDireccion">DIRECCION</string>
+    <string name="txtFInscripcion">FECHA INSCRIPCION</string>
+    <string name="txtTitulo">TITUTLO</string>
+    <string name="txtCuerpo">CUERPO</string>
+    <string-array name="titulos">
+        <item>titulo1</item>
+        <item>titulo2</item>
+        <item>titulo3</item>
+        <item>titulo4</item>
+        <item>titulo5</item>
+
+
+    </string-array>
+
+    <string-array name="cuerpos">
+        <item>cuerpo1</item>
+        <item>cuerpo2</item>
+        <item>cuerpo3</item>
+        <item>cuerpo4</item>
+        <item>cuerpo5</item>
+    </string-array>
+</resources>

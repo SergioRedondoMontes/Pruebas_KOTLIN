@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Activity1</string>
+    <string name="btnBook">NEXT</string>
+    <string name="btnEditar">EDIT</string>
+    <string name="btnGuardar">SAVE</string>
+    <string name="btnPerfil">PROFILE</string>
+    <string name="btnSiguiente">NEXT</string>
+    <string name="btnAnterior">BACK</string>
+    <string name="txtNombre">NAME</string>
+    <string name="txtEmail">EMAIL</string>
+    <string name="txtTelefono">PHONE</string>
+    <string name="txtDireccion">ADRESS</string>
+    <string name="txtFInscripcion">REGISTRATION DATE</string>
+    <string name="txtTitulo">TITLE</string>
+    <string name="txtCuerpo">BODY</string>
+    <string-array name="titulos">
+        <item>titulo1</item>
+        <item>titulo2</item>
+        <item>titulo3</item>
+        <item>titulo4</item>
+        <item>titulo5</item>
+
+
+    </string-array>
+
+    <string-array name="cuerpos">
+        <item>cuerpo1</item>
+        <item>cuerpo2</item>
+        <item>cuerpo3</item>
+        <item>cuerpo4</item>
+        <item>cuerpo5</item>
+    </string-array>
+</resources>
